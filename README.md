@@ -1,6 +1,6 @@
 ## Md. Ruhit Hassan
 
-#### Software Developer at HK IT Limited
+#### Software Developer
 
 `I have learned that i still have a lot to learn`
 
