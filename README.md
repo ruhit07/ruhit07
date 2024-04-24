@@ -20,8 +20,8 @@ Actively working with:
   Frontend:
   - HTML, CSS3, SCSS, Tailwind CSS, Styled Components
   - React.js, Next.js
-  - Redux, React-Query, SWR, Formik, React Hook Form, Yup, Joi
-  - Bootsatrap, Material UI, Ant Design
+  - Redux, Axios, React-Query, SWR, Formik, React Hook Form, Yup, Joi
+  - Bootsatrap, Ant Design, Material UI 
   Backend:
   - Node.js, Express.js, Nest.js
   - REST API, GraphQL
