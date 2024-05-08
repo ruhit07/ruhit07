@@ -26,12 +26,12 @@ Actively working with:
   - Node.js, Express.js, Nest.js
   - REST API, GraphQL
   Database:
-  - PostgreSQL, MySQL, MongoDB
+  - PostgreSQL, MySQL, MongoDB, Redis
   Testing:
   - TDD, Unit, Integration testing with Jest
   Deployment: 
   - Git, Github, GitLab, Bitbucket
-  - VPS, AWS, Docker
+  - VPS, AWS, Docker, CI/CD
   Other:
   - OOP, MVC, Agile
 ```
