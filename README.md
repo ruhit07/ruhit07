@@ -33,7 +33,7 @@ Actively working with:
   - Git, Github, GitLab, Bitbucket
   - VPS, AWS, Docker, CI/CD
   Other:
-  - OOP, MVC, Agile
+  - OOP, MVC, Agile, Data Structure, Algorithm
 ```
 
 *If at first, you don’t succeed; call it version 1.0*
