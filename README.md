@@ -31,7 +31,7 @@ Actively working with:
   - TDD, Unit, Integration testing with Jest
   Deployment: 
   - Git, Github, GitLab, Bitbucket
-  - AWS, VPS, Docker
+  - VPS, AWS, Docker
   Other:
   - OOP, MVC, Agile
 ```
