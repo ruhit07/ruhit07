@@ -9,7 +9,7 @@ Hi there 👋
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ruhit-hassan/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:ruhithassan10@gmail.com?subject=From%20GitHub&&body=Hi)
 
-### Tech Stacks I've worked with
+### Tech stacks I've worked with
 
 _I'm working **full-stack**, but heavily focused on **Backend**_
 
