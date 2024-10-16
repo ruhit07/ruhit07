@@ -24,7 +24,7 @@ Actively working with:
   - Bootsatrap, Ant Design, Material UI 
   Backend:
   - Node.js, Express.js, Nest.js
-  - REST API, GraphQL
+  - REST API, GraphQL, Microservices
   Database:
   - PostgreSQL, MySQL, MongoDB, Redis
   Testing:
